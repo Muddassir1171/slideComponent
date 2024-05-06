@@ -4,7 +4,7 @@ Welcome to our Slide with Image and Button project! This simple HTML and CSS cod
 
 ## Preview
 
-![Slide Preview](preview.png)
+![Slide Preview](sample.png)
 
 ## Features
 
